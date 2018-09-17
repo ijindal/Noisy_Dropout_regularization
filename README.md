@@ -30,3 +30,22 @@ In case of MNIST dataset on CNN follow the same proceduee as stated above. And f
 
 
 One can find the implementation of `randfixedsum.m` at this [link](https://www.mathworks.com/matlabcentral/fileexchange/9700-random-vectors-with-fixed-sum?focused=5064802&tab=function)
+
+
+
+**Citing:**
+
+If you use this work in your research, please cite the following paper:
+
+```
+
+@inproceedings{jindal2016learning,
+  title={Learning deep networks from noisy labels with dropout regularization},
+  author={Jindal, Ishan and Nokleby, Matthew and Chen, Xuewen},
+  booktitle={Data Mining (ICDM), 2016 IEEE 16th International Conference on},
+  pages={967--972},
+  year={2016},
+  organization={IEEE}
+}
+
+```
